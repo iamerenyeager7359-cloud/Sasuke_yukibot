@@ -24,7 +24,7 @@ API_HASH = getenv("API_HASH", "c17770cb00d3f63a83ff58028e80cbd4")
 BOT_TOKEN = getenv("BOT_TOKEN","8852063268:AAFc850MdI5DWX8U7pmdvyap_kmp5y8FRfc")
 
 # Database to save your chats and stats... Get MongoDB:-  https://telegra.ph/How-To-get-Mongodb-URI-04-06
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://rahulparmar735969_db_user:xp6H9DfZJC2bVHON @sasuke.e0cwjde.mongodb.net/?appName=Sasuke")
 
 # Custom max audio(music) duration for voice chat. set DURATION_LIMIT in variables with your own time(mins), Default to 60 mins.
 DURATION_LIMIT_MIN = int(
@@ -65,7 +65,7 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", None
+    "SUPPORT_CHANNEL","https://t.me/ll_ABOUT_SASUKE_ll"
 )  # Example:- https://t.me/TheYukki
 SUPPORT_GROUP = getenv(
     "SUPPORT_GROUP", None
