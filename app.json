@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "39782277",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "c17770cb00d3f63a83ff58028e80cbd4",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -50,7 +50,7 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BQJfB4UAiTf-wJdxOFYTd5iPNyaxc3aZO-4L9suhNrV4qBCL2i2O77rPKFGiayGRZksdn8vlhtAOOEqlEx0L2pED-v2B957fHEkZVREN_rrziBG5wE1QuLCHJshCvImYEWXPwVSNebxETgV3H2cwzl0bVR4JfUwQqyGFN9Y9frBMB-80DPkyBvwbcSCBzPxIjrBEvuwESBVLhFv3UnaLNErXzhKfVjEUjrW2FDKbdIkMqXgMEEfsNG_0qjXlJShGUtL8VVv7DIEBFhA6H_8PZh9vi7MQFeFj5RYhxB6tHFxl2xpm2hybZBYy-1L46nzAFYhq0tLoofGvQCbVlOHvt4_q4O8PZQAAAAIJGaMzAA",
         "required": true
       },
       "HEROKU_API_KEY": {
